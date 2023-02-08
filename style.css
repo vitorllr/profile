@@ -1,0 +1,81 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+  background-color: #F7F9FC;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 37px;
+  color: black;
+  line-height: normal;
+  text-align: center;
+  margin: 40px;
+
+
+}
+body {
+  display: block;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 35px;
+  line-height: normal;
+  text-align: center;
+  margin-bottom: 15px;
+}
+h2 {
+  font-size: 25px;
+}
+p {
+  font-size: 15px;
+  line-height: normal;
+  text-align: center;
+}
+.bullets{
+  list-style-type:none
+}
+
+.img {
+  height: 125px;
+  width: 125px;
+  border-radius: 50%;
+  padding: px;
+}
+.list-items{
+  padding-right: 30px;
+  display: inline-block
+}
+.button-green {
+  background: black;
+  color: #c3f8a1;
+  text-decoration: none;
+  padding: 8px 10px;
+  border-radius: 5px;
+  transition: 0.5s;
+  font-size: large;
+}
+a:hover{
+  background-color: white;
+}
+i:hover{
+  background-color: white;
+  border-radius: 70px;
+
+}
+#intro {
+  background-color: #c3f8a1;
+  padding: 40px;
+  border-radius: 30px;
+  box-shadow: inset;
+  margin: 20px 0px;
+  text-align: center;
+}
+#social-and-button{
+  background-color: #c3f8a1;
+  padding: 25px;
+  border-radius: 30px;
+  box-shadow: inset;
+  margin: 20px 0px;
+  text-align: center;
+}
